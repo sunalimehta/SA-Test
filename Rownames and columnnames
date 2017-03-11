@@ -1,0 +1,2 @@
+pros.wt.rn = data.frame(pros.wt[,1], row.names =pros.wt[,1])
+prost.wt.rn
